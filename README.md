@@ -4,6 +4,10 @@
 
 ## Usage
 
+```bash
+https://cryptic-ocean-07454.herokuapp.com
+```
+
 ### Run Server
 
 ```bash

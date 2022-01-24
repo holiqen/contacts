@@ -1,11 +1,12 @@
 # Contact Keeper
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication.
+> Link: https://cryptic-ocean-07454.herokuapp.com
 
 ## Usage
 
 ```bash
-https://cryptic-ocean-07454.herokuapp.com
+You need to add mongoURI in the config
 ```
 
 ### Run Server
